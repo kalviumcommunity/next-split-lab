@@ -18,7 +18,7 @@ npm run build
 
 Look at the **First Load JS** column in the route table. The eager route ships
 far more JavaScript up front than the lazy route, even though both show the same
-chart. (In our run: `/dashboard-eager` was ~206 kB vs `/dashboard-lazy` ~104 kB.)
+chart. (In our run: `/dashboard-eager` was ~188 kB vs `/dashboard-lazy` ~88.7 kB.)
 
 Then run it and click around:
 
